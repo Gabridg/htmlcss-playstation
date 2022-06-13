@@ -1,0 +1,21 @@
+header {
+    height: 100px;
+}
+
+#logo-row {
+    height: 30px;
+    background-color: #000;
+}
+
+#logo-sony {
+    height: 1rem;
+}
+
+.fa-bars {
+    color: #666;
+}
+
+
+#burger-menu {
+    max-width: 60px;
+}
