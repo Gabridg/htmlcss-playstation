@@ -105,3 +105,17 @@ main {
 #ps-plus-logo {
     height: 70px;
 }
+
+/* Play Now */
+#play-now {
+    background-color: #161c3b;
+}
+
+#ps-now-logo {
+    height: 70px;
+}
+
+#btn-ps-now {
+    background-color: #fff;
+    border-color: #fff;
+}
