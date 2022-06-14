@@ -1,5 +1,6 @@
 header {
     height: 100px;
+    z-index: 1;
 }
 
 #logo-row {
@@ -57,4 +58,27 @@ main {
     background-color: #2d64e6;
     border-color: #2d64e6;
     color: #fff;
+}
+
+
+/* device control */
+
+
+#ps5 #choose-device img {
+    opacity: 0.5;
+    cursor: pointer;
+}
+
+#ps5 #choose-device div:hover img {
+    opacity: 1;
+
+}
+
+/* Jumbotron #2 */
+
+#jumbotron-new-games {
+    background-image: url('../img/it-takes-two-hero-banner-desktop.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 500px;
 }
