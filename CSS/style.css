@@ -124,3 +124,11 @@ main {
 footer {
     background-color: #00439c;
 }
+
+#sie-logo {
+    height: 50px;
+}
+
+#copyright {
+    font-size: 0.8rem;
+}
