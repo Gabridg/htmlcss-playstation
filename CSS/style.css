@@ -19,3 +19,42 @@ header {
 #burger-menu {
     max-width: 60px;
 }
+
+#btn-accedi {
+    font-size: 1.2rem;
+    background-color: #666;
+    border-color: #666;
+    color: #fff;
+}
+
+main {
+    margin-top: 106px;
+}
+
+#jumbotron {
+    background-image: url('../img/jumbo-bg.png');
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+}
+
+#btn-acquista {
+    background-color: #cd3d0f;
+    border-color: #cd3d0f;
+    color: #fff;
+}
+
+#jumbo-layout {
+    margin-top: 200px;
+}
+
+.img-rounded {
+    border-radius: 20px;
+}
+
+
+#btn-info {
+    background-color: #2d64e6;
+    border-color: #2d64e6;
+    color: #fff;
+}
