@@ -90,3 +90,18 @@ main {
 #shop-new-games {
     background-color: #1f1f1f;
 }
+
+/* PlayStation Plus */
+
+#ps-plus {
+    background-color: #bebcbb;
+}
+
+#btn-ps-plus {
+    background-color: #d9dadc;
+    border-color: #d9dadc;
+}
+
+#ps-plus div img {
+    height: 25%;
+}
