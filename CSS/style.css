@@ -78,7 +78,7 @@ main {
 
 #jumbotron-new-games {
     background-image: url('../img/it-takes-two-hero-banner-desktop.jpg');
-    background-position: center;
+    background-position: top center;
     background-size: cover;
     height: 500px;
 }
